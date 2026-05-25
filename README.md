@@ -32,7 +32,8 @@ Fonte:
 
 ## Visualização
 
-![Temperatura Média](images/temperatura_media_diaria.png)
+<img width="3000" height="1800" alt="image" src="https://github.com/user-attachments/assets/520b5925-8924-49ab-b313-31a503a5bc0f" />
+
 
 ## Estrutura do projeto
 
