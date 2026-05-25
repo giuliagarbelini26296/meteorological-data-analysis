@@ -32,7 +32,7 @@ Fonte:
 
 ## Visualização
 
-![Temperatura Média](images/temperatura_media_diaria.png)
+<img src="images/temperatura_media_diaria.png" width="800">
 
 ## Estrutura do projeto
 
