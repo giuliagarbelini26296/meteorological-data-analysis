@@ -30,9 +30,9 @@ Fonte:
 
 ## Exemplos de gráficos
 
-### Temperatura média diária
+## Visualização
 
-![Temperatura](images/temperatura_media_diaria.png)
+![Temperatura Média](images/temperatura_media_diaria.png)
 
 ## Estrutura do projeto
 
